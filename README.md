@@ -9,7 +9,7 @@ I have experience working with:
 
 - 🔭 I’m currently working on [Story Squad](https://github.com/Lambda-School-Labs/Labs26-StorySquad-FE-TeamA), an app intended to get children interested in reading and creative writing.
 - 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on something fun. Maybe a game?
+- 👯 I’m looking to collaborate on something fun. Maybe building a new game?
 - 🤔 I’m looking for help with automating tasks with Python
 - 💬 Ask me about anything!
 - 📫 How to reach me: brian_russell@hotmail.com
