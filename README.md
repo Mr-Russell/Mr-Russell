@@ -14,4 +14,4 @@ I have experience working with:
 - 💬 Ask me about anything!
 - 📫 How to reach me: brian_russell@hotmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to work in film production. [Check out my IMDb page!](https://www.imdb.com/name/nm6291328/?ref_=nv_sr_srsg_0)
+- ⚡ Fun fact: [I used to work in film production](https://www.imdb.com/name/nm6291328/?ref_=nv_sr_srsg_0)
