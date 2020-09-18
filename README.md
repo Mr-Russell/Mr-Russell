@@ -5,10 +5,7 @@ Welcome to my GitHub page! Please take a look at my code. I woud love to collabo
 I have always been interested in how technology can improve our everyday lives. I want to solve new problems by building software. I love solving puzzles, and debugging software is a something I actually enjoy and embrace. Once I start a project I am not satisfied until it is fully complete, with all the necessary features built and functioning properly.
 
 I have experience working with:
-| HTML | CSS | LESS | Responsive Design | Ant Design |
-| JavaScript | React | Redux | React Testing Library | 
-| Cypress | Jest | NodeJS | Express | 
-| Knex | SQLite | PostgreSQL | Python | 
+| HTML | CSS | LESS | Responsive Design | Ant Design | JavaScript | React | Redux | React Testing Library | Cypress | Jest | NodeJS | Express | Knex | SQLite | PostgreSQL | Python
 
 - 🔭 I’m currently working on [Story Squad](https://github.com/Lambda-School-Labs/Labs26-StorySquad-FE-TeamA), an app intended to get children interested in reading and creative writing.
 - 🌱 I’m currently learning ReactJS
