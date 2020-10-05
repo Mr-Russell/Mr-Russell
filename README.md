@@ -15,3 +15,9 @@ I have experience working with:
 - 📫 How to reach me: brian_russell@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: [I used to work in film production](https://www.imdb.com/name/nm6291328/?ref_=nv_sr_srsg_0)
+
+
+
+[![Mr-Russell's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Russell)](https://github.com/Mr-russell/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Russell)](https://github.com/Mr-Russell/github-readme-stats)
