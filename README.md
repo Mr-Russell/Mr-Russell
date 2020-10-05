@@ -18,6 +18,6 @@ I have experience working with:
 
 
 
-[![Mr-Russell's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Russell)](https://github.com/Mr-Russell/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Russell&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Russell&layout=compact)](https://github.com/Mr-Russell/github-readme-stats)
