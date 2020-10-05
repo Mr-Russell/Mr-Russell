@@ -20,4 +20,4 @@ I have experience working with:
 
 [![Mr-Russell's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Russell)](https://github.com/Mr-Russell/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Russell&layout=compact)](https://github.com/Mr-Russell/github-readme-stats)
