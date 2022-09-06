@@ -18,7 +18,9 @@ I have experience working with:
 
 
 
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Russell&show_icons=true&theme=tokyonight)
+-->
 
 <!-- ** NOT WORKING **
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Russell)](https://github.com/anuraghazra/github-readme-stats)
